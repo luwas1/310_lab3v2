@@ -16,3 +16,4 @@ If the two strings have different lengths, the program only compares up to the l
 ```bash
 as Lab3_hamming_distance.s -o Lab3_hamming_distance.o
 ld Lab3_hamming_distance.o -o Lab3_hamming_distance
+./Lab3_hamming_distance
